@@ -42,13 +42,26 @@ It supports video/audio playback and PDF reading, while keeping track of your pr
 2. Install the requirements:  
    ```bash
    pip install -r requirements.txt
-3. Run the app:
-    ```bash
-    python main.py
-4. Add media files into the library folder.
+   ```  
+3. Run the app:  
+   ```bash
+   python main.py
+   ```  
+4. Add media files into the library folder.  
 5. Use the interface to open, view, or take notes.
 
+> **Known Issues:**  
+> - PDF zooming may become slow on large files.  
+> - Playback may not embed properly on macOS.
+
 ---
-Known Issues:
-* PDF zooming may become slow on large files.
-* Playback may not embed properly on macOS.
+
+## 📦 Download Link  
+[🔗[ Cristix - Telegram](https://t.me/+Of5GxLmyg7Q1MzE0)]  
+
+## 📘 Docs:  
+[🔗 [Cristix - Documntation](https://www.notion.so/Cristix-1d3489fdc65e8064a5f4ff6df8394baa)]  
+
+---
+
+Feel free to contribute or open issues!
