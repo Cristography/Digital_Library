@@ -1,10 +1,5 @@
 # Digital Library — Documentation  
-**Version:** 1.0  
-
----
-
-📷 Screenshots (optional)  
-Show what the app looks like.
+**Version:** 2.1  
 
 ---
 
